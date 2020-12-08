@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TC3]]>
+    </line>
+  </reporter-output>
+  <suite name="Failed suite [Default suite]" duration-ms="102" started-at="2020-12-08T17:59:13Z" finished-at="2020-12-08T17:59:13Z">
+    <groups>
+    </groups>
+    <test name="Default test(failed)" duration-ms="102" started-at="2020-12-08T17:59:13Z" finished-at="2020-12-08T17:59:13Z">
+      <class name="TestNG5.ExecuteFailTC">
+        <test-method status="PASS" signature="TC3()[pri:0, instance:TestNG5.ExecuteFailTC@39aeed2f]" name="TC3" duration-ms="28" started-at="2020-12-08T23:29:13Z" finished-at="2020-12-08T23:29:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- TestNG5.ExecuteFailTC -->
+    </test> <!-- Default test(failed) -->
+  </suite> <!-- Failed suite [Default suite] -->
+</testng-results>
